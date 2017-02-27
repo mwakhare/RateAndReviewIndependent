@@ -1,0 +1,24 @@
+{
+  "name": "ratereview",
+  "version": "1.0.0",
+  "description": "Independent module of rate and review",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwakhare/RateAndReviewIndependent.git"
+  },
+  "keywords": [
+    "rate",
+    "and",
+    "review"
+  ],
+  "author": "Milind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwakhare/RateAndReviewIndependent/issues"
+  },
+  "homepage": "https://github.com/mwakhare/RateAndReviewIndependent#readme"
+}
